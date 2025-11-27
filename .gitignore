@@ -1,0 +1,5 @@
+test_set.csv
+training_set.csv
+
+# Ignore Jupyter backup files (Optional but recommended)
+.ipynb_checkpoints/
